@@ -1,0 +1,34 @@
+1. program BiSection1.exe adalah program untuk
+   mencari akar persamaan
+
+            2
+   f(x) = 2x  - 5x + 2
+
+   menggunakan metode Bi-Section, yang ditulis/dibuat
+   menggunakan bahasa C (CodeBlock).
+   program dibuat asal jadi, tidak memperhatikan faktor lain
+   (keindahan tampilan, besar kecilnya huruf, dlsb.nya)
+   tujuan program ini adalah untuk memperjelas tugas
+   mata kuliah Metode Numerik hari ini Jum'at 17-09-2021
+
+2. jalankan program BiSection1.exe seperti program Demo1.exe
+   dan Demo2.exe, dengan batas bawah dan batas atas sebagai berikut
+                         -------------+------------
+                              0       |       1
+                              1       |       3
+                              1       |       5
+                              1       |       9
+                              1       |       17
+                              1       |       11
+                              0       |       6
+                             -6       |       1
+                              0       |       1.8
+                             -6       |       6
+
+3. perlu diingat bahwa persamaan
+
+            2
+   f(x) = 2x  - 5x + 2
+
+   apabila diselesaikan secara analitik dengan rumus ABC
+   ataupun faktorisasi, akan diperoleh nilai 0.5 dan 2.
